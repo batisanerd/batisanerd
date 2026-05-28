@@ -60,22 +60,6 @@ currently in development.
 
 right now it's mostly in the modeling stage because i'd rather make stuff that actually fits the game than rush placeholder models and redo them later.
 
-## proposed gamemodes
-
-these are very rough and can change a lot.
-
-- **shift mode**  
-  the main mode. starts as a normal facility shift and can slowly turn into chaos depending on what players do.  
-  **rough estimate:** early/late 2026
-
-- **breach mode**  
-  a more direct mode where things are already going wrong and players are thrown straight into the mess  
-  **rough estimate:** 2027
-
-- **other modes / event modes**  
-  smaller, weirder, or more specific modes outside the main loop.  
-  **rough estimate:** 2027+
-
 ## what's planned
 
 stuff i want to add over time:

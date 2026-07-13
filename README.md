@@ -1,14 +1,16 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/OhMyBat/OhMyBat/main/konata-lucky-star.gif" width="300">
+  <img src="https://raw.githubusercontent.com/OhMyBat/OhMyBat/main/konata-lucky-star.gif"
+       width="300"
+       alt="Konata animation">
 </p>
 
 <h1 align="center">hi hi!</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/OhMyBat/OhMyBat/main/hyper-anime.gif" width="260">
+  <img src="https://raw.githubusercontent.com/OhMyBat/OhMyBat/main/hyper-anime.gif"
+       width="260"
+       alt="Anime animation">
 </p>
-
----
 
 # My Programming Languages!
 

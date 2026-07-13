@@ -5,7 +5,7 @@
 <h1 align="center">hi hi!</h1>
 
 <p align="center">
-  <img src="https://github.com/OhMyBat/OhMyBat/blob/main/hyper-anime.gif?raw=true" width="260">
+  <img src="https://raw.githubusercontent.com/OhMyBat/OhMyBat/main/hyper-anime.gif" width="260">
 </p>
 
 ---

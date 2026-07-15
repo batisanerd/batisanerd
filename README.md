@@ -6,12 +6,6 @@
 
 <h1 align="center">hi hi!</h1>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/OhMyBat/OhMyBat/main/hyper-anime.gif"
-       width="260"
-       alt="Anime animation">
-</p>
-
 # My Programming Languages!
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)

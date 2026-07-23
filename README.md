@@ -10,9 +10,6 @@
 ## About me
 Nerd.
 
-## What I'm working on (mainly)
-- **AFM-453: Facility Havoc** — Multiplayer facility sandbox game (WIP)
-- **Campus** — A VR social game
 
 ## Languages / Tools
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)

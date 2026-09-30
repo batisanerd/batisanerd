@@ -20,7 +20,7 @@ i mostly make games and tools, then somehow end up learning another programming 
 
 my main game project, made in unity (of course)
 
-it's a multiplayer casual-competitive FPS game set in a giant anomaly research facility, but when i put it that way it sounds a lot like SCP:SL lol
+it's a multiplayer social casual-competitive PVP game set in a giant anomaly research facility (might make videos on it later)
 
 ## 3D stuff
 
